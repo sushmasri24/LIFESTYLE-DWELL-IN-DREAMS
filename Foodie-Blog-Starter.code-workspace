@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\study materials\\Foodie-Blog-Starter"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web"
+	}
+}
