@@ -28,6 +28,14 @@ this is future ready talent project on lifestyle
 4.CREATING RESOURCE GROUP
 ![image](https://user-images.githubusercontent.com/92007076/183461322-d9620428-1b70-4e8c-998d-0988f13eefa8.png)
 
+5. GITHUB
+![image](https://user-images.githubusercontent.com/92007076/183462497-b3e7ce8d-f91d-405a-bdb2-81154bc31bd0.png)
+
+6. DEPLOYEMENT OF STATIC WEB-SITE
+![image](https://user-images.githubusercontent.com/92007076/183462889-9334b60f-b585-409e-bc93-7e241ff46628.png)
+
+
+
 
 
 
