@@ -20,6 +20,16 @@ this is future ready talent project on lifestyle
 1. Create static web hosting in azure
 2. ![image](https://user-images.githubusercontent.com/92007076/183460111-8cccb290-1682-4f76-a98b-116ba15ac4d2.png)
 
+3.Attach it your repository
+# ![image](https://user-images.githubusercontent.com/92007076/183460304-3c8105ea-0b7d-4065-845a-ca2f4841c0d8.png)
+
+![image](https://user-images.githubusercontent.com/92007076/183460681-a4414b11-07ea-45c1-9522-7d447fc70e8a.png)
+
+4.CREATING RESOURCE GROUP
+![image](https://user-images.githubusercontent.com/92007076/183461322-d9620428-1b70-4e8c-998d-0988f13eefa8.png)
+
+
+
 
 
 
