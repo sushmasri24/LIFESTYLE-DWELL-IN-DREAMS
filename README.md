@@ -34,6 +34,9 @@ this is future ready talent project on lifestyle
 6. DEPLOYEMENT OF STATIC WEB-SITE
 ![image](https://user-images.githubusercontent.com/92007076/183462889-9334b60f-b585-409e-bc93-7e241ff46628.png)
 
+7.![image](https://user-images.githubusercontent.com/92007076/183463592-5babddfa-cfe9-48d0-a580-64de1147d5ed.png)
+
+
 
 
 
